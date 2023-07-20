@@ -8,6 +8,10 @@
     key: "/org/mate/terminal/global/profile-list"
     state: "read"
   register: "profile_list"
+- name: "profile_list está vacia, configurando:"
+  set_fact:
+    profile_list:
+      value: '["default"]'
 - name: "Anyadir nuestro perfil"
   set_fact:
     new_profile_list: "{{ profile_list.value | regex_replace(']$', \", 'endiku_prof']\") }}"
@@ -15,7 +19,8 @@
   dconf:
     key: "/org/mate/terminal/global/profile-list"
     value: "{{ new_profile_list }}"
-  when: "'video' not in profile_list.value"
+  when: "'endiku_prof' not in profile_list.value"
 - name: "Restaurando el perfil endiku_prof de Dump"
   shell:
     cmd: "dconf load /org/mate/terminal/profiles/endiku_prof/ < {{ role_path }}/files/dconf-dump"
+  when: "'endiku_prof' not in profile_list.value"
