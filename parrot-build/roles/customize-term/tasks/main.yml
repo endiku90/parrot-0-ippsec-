@@ -10,12 +10,12 @@
   register: "profile_list"
 - name: "Anyadir nuestro perfil"
   set_fact:
-    new_profile_list: "{{ profile_list.value | regex_replace(']$', \", 'video']\") }}"
+    new_profile_list: "{{ profile_list.value | regex_replace(']$', \", 'endiku_prof']\") }}"
 - name: "Escribiendo nuevos perfiles"
   dconf:
     key: "/org/mate/terminal/global/profile-list"
     value: "{{ new_profile_list }}"
   when: "'video' not in profile_list.value"
-- name: "Restaurando el perfil video de Dump"
+- name: "Restaurando el perfil endiku_prof de Dump"
   shell:
-    cmd: "dconf load /org/mate/terminal/profiles/video/ < {{ role_path }}/files/dconf-dump-video"
+    cmd: "dconf load /org/mate/terminal/profiles/endiku_prof/ < {{ role_path }}/files/dconf-dump"
