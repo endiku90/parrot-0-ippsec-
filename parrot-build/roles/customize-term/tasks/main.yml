@@ -1,0 +1,21 @@
+---
+- name: "Copia de BashRC"
+  copy:
+    src: "{{ role_path }}/files/.bashrc"
+    dest: "{{ ansible_env.HOME }}"
+- name: "Leer perfiles de terminal"
+  dconf:
+    key: "/org/mate/terminal/global/profile-list"
+    state: "read"
+  register: "profile_list"
+- name: "Anyadir nuestro perfil"
+  set_fact:
+    new_profile_list: "{{ profile_list.value | regex_replace(']$', \", 'video']\") }}"
+- name: "Escribiendo nuevos perfiles"
+  dconf:
+    key: "/org/mate/terminal/global/profile-list"
+    value: "{{ new_profile_list }}"
+  when: "'video' not in profile_list.value"
+- name: "Restaurando el perfil video de Dump"
+  shell:
+    cmd: "dconf load /org/mate/terminal/profiles/video/ < {{ role_path }}/files/dconf-dump-video"
