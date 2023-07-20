@@ -1,0 +1,3 @@
+---
+- include:  cherry.yml
+- include: minder.yml
