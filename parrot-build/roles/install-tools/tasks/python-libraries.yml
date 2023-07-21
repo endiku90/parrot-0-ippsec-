@@ -1,0 +1,4 @@
+---
+- name: Instalación pwntools
+  ansible.builtin.pip:
+    name: pwntools
