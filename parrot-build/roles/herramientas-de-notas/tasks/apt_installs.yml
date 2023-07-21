@@ -2,6 +2,7 @@
 - name: "instalacions snapd"
   apt:
     name: snapd
+    name: minder
     state: present
   become: true
   become_method: sudo

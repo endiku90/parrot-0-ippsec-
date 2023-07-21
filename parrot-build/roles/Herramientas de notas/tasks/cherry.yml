@@ -1,6 +1,0 @@
----
-- name: "Instalación cherry tree"
-  become: true
-  become_method: sudo
-  apt: cherrytree
-  state: present
