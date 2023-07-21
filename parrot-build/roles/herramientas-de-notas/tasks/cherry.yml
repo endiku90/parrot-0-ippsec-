@@ -1,0 +1,8 @@
+---
+- name: "Instalacion cheery"
+  community.general.snap:
+     name:
+       - core
+       - cherrytree
+  become: true
+  become_method: sudo

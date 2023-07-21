@@ -1,0 +1,7 @@
+---
+- name: "instalacions snapd"
+  apt:
+    name: snapd
+    state: present
+  become: true
+  become_method: sudo
