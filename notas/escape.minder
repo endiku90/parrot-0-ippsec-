@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<minder version="1.9.2">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="0" y="0" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="264.02490234375" posy="308.010986328125" maxwidth="200" width="80" height="46" side="right" fold="false" treesize="46" layout="Horizontal">
+      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>escape</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="444.02490234375" posy="308.010986328125" maxwidth="200" width="79" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>bash</nodename>
+          <nodenote>function ctrl_c() {
+    echo -e "saliendo"
+    tput cnorm; exit 1
+}
+
+trap ctrl_c INT
+tput civis
+
+FUNCION()...
+
+
+tput cnorm</nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
